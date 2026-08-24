@@ -94,9 +94,6 @@ Through this assignment, I practiced:
 
 Aspiring Data Analyst | SQL | Excel | Power BI
 
----
-
-⭐ This project is part of my **Data Analytics learning journey**.
 
 
 # SQL Assignment 2 – Employee Database
