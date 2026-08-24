@@ -1,6 +1,6 @@
 # sql_assignments
 
-# SQL Employee Database Assignment 1
+# MySQL Assignment 1 – DDL Commands & Constraints
 
 ## 📌 Project Overview
 
@@ -96,7 +96,7 @@ Aspiring Data Analyst | SQL | Excel | Power BI
 
 
 
-# SQL Assignment 2 – Employee Database
+# MySQL Assignment 2 – Querying Data
 
 ## 📌 Project Overview
 
